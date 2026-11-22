@@ -6,6 +6,12 @@ A data exploration project using Python and Pandas to examine a car dataset, cal
 
 Worked with a car dataset in Jupyter Notebook to explore vehicle-related information, perform data analysis operations, and identify relevant statistics and patterns within the data.
 
+## Development Context
+
+**Guided Learning Project**
+
+Completed while following instructional material focused on Python and data analysis. The project provided hands-on practice using Pandas to explore datasets, perform calculations, and extract information.
+
 ## Tools & Technologies
 
 - Python
@@ -25,11 +31,15 @@ Worked with a car dataset in Jupyter Notebook to explore vehicle-related informa
 
 ## Files
 
-| File | Description |
+| **File** | **Description** |
 |---|---|
 | `Cars Data1.csv` | Source dataset containing car-related information. |
 | `big-data-analysis-of-car-dataset.ipynb` | Jupyter Notebook containing the Python code and analysis. |
 
-## Purpose
+## Learning Objectives
 
-To develop practical experience using Python and Pandas to explore datasets, perform statistical calculations, and extract meaningful information from structured data.
+- Develop familiarity with Python and Pandas.
+- Practice exploring and inspecting structured datasets.
+- Apply filtering, grouping, and aggregation techniques.
+- Calculate descriptive statistics.
+- Extract and interpret information from real-world datasets.
